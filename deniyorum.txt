@@ -1,1 +1,2 @@
 deneme işlemi ilk commit
+deneme işlemi için ikinci commiti atıyorum(mail ve kullanıcı adını değiştirdim)
